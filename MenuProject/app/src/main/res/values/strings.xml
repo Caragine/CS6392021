@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MenuProject</string>
+    <string name="btn_map">MAP</string>
+    <string name="btn_web">WEB</string>
+    <string name="btn_phone">PHONE</string>
+    <string name="btn_share">SHARE</string>
+    <string name="btn_newactivity">NEW ACTIVITY</string>
+    <string name="btn_sms">SMS</string>
+    <string name="phonenumber">8458039999</string>
+    <string name="message">Hi, this is Adam Caragine!</string>
+    <string name="newactivitytext">Hello Adam Caragine</string>
+    <string name="weburl">https://www.twitter.com</string>
+    <string name="sharetitle">Share the love</string>
+    <string name="sharemsg">Share the love</string>
+    <string name="location">Yonkers, NY</string>
+    <string name="helpactivitytext">Welcome to the Help Page</string>
+    <string name="help">HELP</string>
+    <string name="settings">SETTINGS</string>
+    <string name="menuhelp">Help</string>
+    <string name="menusettings">Settings</string>
+    <string name="homepagetext">Welcome to Menu Project. Click a Button!</string>
+</resources>
